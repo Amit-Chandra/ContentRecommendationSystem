@@ -1,6 +1,6 @@
 # YouTube Content Recommendation System
 
-![YouTube Recommendation](image/your-image-file.png)
+![YouTube Recommendation](images/ContentRecommendationSystem.png)
 
 
 ## 🎯 About the Project
@@ -8,9 +8,9 @@ This YouTube Content Recommendation System suggests related videos based on vide
 
 ## 🚀 Live Demo
 
-```
-🔗 Live Project: [YouTube Content Recommendation System](https://content-recommendation-system.onrender.com/)
-```
+Use the YouTube Content Recommendation System here:
+[Live on Render](https://content-recommendation-system.onrender.com/)
+
 
 ## 🛠️ Tech Stack
 - **Backend**: Flask (Python)
@@ -34,9 +34,10 @@ This YouTube Content Recommendation System suggests related videos based on vide
 - Live and hosted on Render
 
 ## 🔗 Connect with Me
-- **GitHub**: [Your GitHub](https://github.com/yourprofile)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- **Twitter**: [Your Twitter](https://twitter.com/yourprofile)
+- **Dev**: [Connect With Me On Dev](https://dev.to/amitchandra/)
+- **LinkedIn**: [Connect With Me On LinkedIn](https://www.linkedin.com/in/connect-amit-chandra/)
+- **Twitter**: [Connect With Me On X](https://x.com/CodeByAmit)
+
 
 ## 🏷️ Tags
 `YouTube Recommendation` `Content-Based Filtering` `Machine Learning` `Flask API` `YouTube Data API` `NLP` `Video Recommendations` `AI Content Discovery`
@@ -44,4 +45,5 @@ This YouTube Content Recommendation System suggests related videos based on vide
 ---
 
 ⭐ If you find this useful, don't forget to share it!
+
 
